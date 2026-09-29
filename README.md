@@ -22,10 +22,4 @@ A modern React website created for the Itzfizz Web Development Internship Assign
 - Lucide React
 - JavaScript
 
-## Run Locally
-
-```bash
-git clone [https://itzfizz-scroll-driven-frontend.vercel.app/]
-cd frontend-assignment
-npm install
-npm run dev
+link:-https://itzfizz-scroll-driven-frontend.vercel.app/
