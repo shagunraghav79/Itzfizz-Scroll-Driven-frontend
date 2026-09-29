@@ -25,7 +25,7 @@ A modern React website created for the Itzfizz Web Development Internship Assign
 ## Run Locally
 
 ```bash
-git clone [repository-url]
+git clone [https://itzfizz-scroll-driven-frontend.vercel.app/]
 cd frontend-assignment
 npm install
 npm run dev
